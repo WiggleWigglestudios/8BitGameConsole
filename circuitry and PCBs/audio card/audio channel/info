@@ -1,0 +1,307 @@
+{
+  "uuid": "a31917a44851ca6234626b97d512b660",
+  "path": "Offline/audio channel",
+  "name": "audio channel",
+  "content": "",
+  "created_at": "2023-10-22 01:23:46",
+  "updated_at": "2023-12-03 03:20:50",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b9a7ac1a65a0b7a08aba2326465bfb0d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2fa53d590f544429ab8fcbd581d715c1": 13,
+        "a33607941887460abc9cea45459a2f77": 3,
+        "54ca6c982a49472cad4feaeb0dbb4fe7": 1,
+        "92c32ceaaac84139add7ebda884f0a47": 2,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 14,
+        "ef807f7ebfc44b6488c5e487d083831c": 1,
+        "23c16fb3b49e4bb597847b73ece0fbc5": 1,
+        "93b44d62463c4c9c82dd7108c8ee7d73": 1,
+        "404aa9221ff94de597b8734806e7c74f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1N4148W-13-F_C526199",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Manufacturer Part": "1N4148W-13-F",
+            "puuid": "c14b69f696a84be0994330db0de53812",
+            "uuid": "ef807f7ebfc44b6488c5e487d083831c",
+            "BOM_Supplier Part": "C526199",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Diodes Incorporated"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J1",
+          {
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65",
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x6",
+          1,
+          "HDR-M-2.54_1X6",
+          "J2",
+          {
+            "BOM_Supplier Part": "C190819",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "df3ca37cb13d499cb713e9aa6fdd0c7b",
+            "uuid": "93b44d62463c4c9c82dd7108c8ee7d73"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          1,
+          "HDR-M-2.54_1X1",
+          "J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-0603_R",
+          14,
+          "LED0603_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED11,LED12,LED13,LED14,LED15,LED16",
+          {
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)"
+          }
+        ],
+        [
+          "74HC590D,118",
+          3,
+          "SO-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "LOWERSOUNDCOUNTER1,SOUNDOUTPUTCOUNTER1,UPPERSOUNDCOUNTER1",
+          {
+            "puuid": "e22b6bd92f084998af49afa4da1dfe45",
+            "uuid": "a33607941887460abc9cea45459a2f77",
+            "BOM_Manufacturer Part": "74HC590D,118",
+            "BOM_Supplier Part": "C547118",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Nexperia(安世)"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          2,
+          "HDR-M-2.54_1X8",
+          "OUTPUTF1,OUTPUTV1",
+          {
+            "puuid": "fb11a1cdebf6433b8a3c664a100689e6",
+            "uuid": "92c32ceaaac84139add7ebda884f0a47",
+            "BOM_Supplier Part": "C190820",
+            "BOM_Supplier": "LCSC"
+          }
+        ],
+        [
+          "1k",
+          8,
+          "R1206",
+          "R4,R5,R6,R7,R8,R9,VR1_1K,VR2_1K",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "1MΩ",
+          1,
+          "RES-ARRAY-TH_9P-P2.54-D1.0",
+          "RN1",
+          {
+            "BOM_Manufacturer Part": "4609X-101-105LF",
+            "puuid": "c946f1098ca14a18a5ecfc2c3fdd9cec",
+            "uuid": "23c16fb3b49e4bb597847b73ece0fbc5",
+            "BOM_Supplier Part": "C1358086",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOURNS"
+          }
+        ],
+        [
+          "SN74HC688PWR",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "SOUNDEQUAL1",
+          {
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "54ca6c982a49472cad4feaeb0dbb4fe7",
+            "BOM_Manufacturer Part": "SN74HC688PWR",
+            "BOM_Supplier Part": "C132045",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ],
+        [
+          "330",
+          1,
+          "R1206",
+          "VR3_330",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "150",
+          1,
+          "R1206",
+          "VR4_150",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "68",
+          1,
+          "R1206",
+          "VR5_68",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "30",
+          1,
+          "R1206",
+          "VR6_30",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "16",
+          1,
+          "R1206",
+          "VR7_16",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ]
+      ],
+      "updateTime": 1701598850,
+      "createTime": 1697959427,
+      "histories": [],
+      "created_at": "2023-10-22 01:23:47",
+      "updated_at": "2023-12-03 03:20:50"
+    },
+    {
+      "uuid": "f2cdfb1ad8f639d63124a61f7d7312d4",
+      "puuid": "a31917a44851ca6234626b97d512b660",
+      "title": "PCB_audio channel",
+      "filename": "PCB_audio channel.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "e22b6bd92f084998af49afa4da1dfe45": 3,
+        "fb11a1cdebf6433b8a3c664a100689e6": 2,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 27,
+        "1586800a83194e228c6527ad76c86945": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 14
+      },
+      "BOM": [],
+      "updateTime": 1697966996,
+      "createTime": 1697960929,
+      "histories": [],
+      "created_at": "2023-10-22 01:48:49",
+      "updated_at": "2023-10-22 03:29:56"
+    },
+    {
+      "uuid": "2a0349620e7f83d1376c79623833693c",
+      "puuid": "a31917a44851ca6234626b97d512b660",
+      "title": "PCB_audio channel copy",
+      "filename": "PCB_audio channel copy.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "e22b6bd92f084998af49afa4da1dfe45": 3,
+        "fb11a1cdebf6433b8a3c664a100689e6": 2,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 13,
+        "1586800a83194e228c6527ad76c86945": 1,
+        "c14b69f696a84be0994330db0de53812": 1
+      },
+      "BOM": [],
+      "updateTime": 1699332305,
+      "createTime": 1697966402,
+      "histories": [],
+      "created_at": "2023-10-22 03:20:02",
+      "updated_at": "2023-11-06 21:45:05"
+    },
+    {
+      "uuid": "c02922c1c1939c99a81097faed6b21de",
+      "puuid": "a31917a44851ca6234626b97d512b660",
+      "title": "PCB_audio channel_2",
+      "filename": "PCB_audio channel_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "df3ca37cb13d499cb713e9aa6fdd0c7b": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 1,
+        "c946f1098ca14a18a5ecfc2c3fdd9cec": 1,
+        "c14b69f696a84be0994330db0de53812": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 14,
+        "e22b6bd92f084998af49afa4da1dfe45": 3,
+        "fb11a1cdebf6433b8a3c664a100689e6": 2,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 13,
+        "1586800a83194e228c6527ad76c86945": 1
+      },
+      "BOM": [],
+      "updateTime": 1699338143,
+      "createTime": 1699332958,
+      "histories": [],
+      "created_at": "2023-11-06 21:55:58",
+      "updated_at": "2023-11-06 23:22:23"
+    }
+  ],
+  "sort": [],
+  "title": "audio channel",
+  "foldername": "audio channel",
+  "schfilename": "audio channel.json",
+  "schfilemtime": 1701598850882
+}

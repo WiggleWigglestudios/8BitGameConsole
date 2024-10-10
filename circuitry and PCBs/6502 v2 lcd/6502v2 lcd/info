@@ -1,0 +1,135 @@
+{
+  "uuid": "12c959c4c56e782ae6a5c84b7b061cc4",
+  "path": "Offline/6502v2%20lcd",
+  "name": "6502v2 lcd",
+  "content": "",
+  "created_at": "2023-08-14 01:07:48",
+  "updated_at": "2023-08-14 16:42:48",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b478c99e10bbd989d1c51d58b47bca75",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "932dc3451e354aea8740a9bc5cf4985a": 1,
+        "97e3dfd84929426786ec7929e48dfb0d": 2,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "e23a437e1e0548369640c1da3526076f": 2,
+        "ec32f3ce430047218e4bc021ae28d057": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x16",
+          2,
+          "HDR-M-2.54_1X16",
+          "J1,J3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J2,J4",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "LMB162ADC",
+          1,
+          "LCD1602",
+          "LCD1",
+          {
+            "BOM_Manufacturer Part": "LMB162ADC",
+            "puuid": "4b9e423a569449a2b51949a532ae73f7",
+            "uuid": "932dc3451e354aea8740a9bc5cf4985a",
+            "BOM_Supplier Part": "C9741",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TOPWAY"
+          }
+        ],
+        [
+          "STANDOFF_F/FM3_5MM",
+          4,
+          "STANDOFF_HEX_FEMALE_550X500_M3X0.5_MTGP850H320",
+          "MP1,MP2,MP3,MP4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c0b39d8d00947c6af0112c84fe2b750",
+            "uuid": "ec32f3ce430047218e4bc021ae28d057"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "3386T",
+          "R1,R2",
+          {
+            "BOM_Supplier": "",
+            "BOM_Manufacturer": "Jameco ValuePro",
+            "BOM_Manufacturer Part": "3386T-1-LS1MEG(105)",
+            "BOM_Supplier Part": "2161422",
+            "puuid": "c4cd557b833444b39ce2426fb49e8b08",
+            "uuid": "e23a437e1e0548369640c1da3526076f"
+          }
+        ]
+      ],
+      "updateTime": 1691999129,
+      "createTime": 1691996868,
+      "histories": [],
+      "created_at": "2023-08-14 01:07:48",
+      "updated_at": "2023-08-14 01:45:29"
+    },
+    {
+      "uuid": "b3d185572916f84b24d5aaa795ec9200",
+      "puuid": "12c959c4c56e782ae6a5c84b7b061cc4",
+      "title": "PCB_6502v2 lcd",
+      "filename": "PCB_6502v2 lcd.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8c0b39d8d00947c6af0112c84fe2b750": 4,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4b9e423a569449a2b51949a532ae73f7": 1,
+        "c4cd557b833444b39ce2426fb49e8b08": 2
+      },
+      "BOM": [],
+      "updateTime": 1692052968,
+      "createTime": 1691997899,
+      "histories": [],
+      "created_at": "2023-08-14 01:24:59",
+      "updated_at": "2023-08-14 16:42:48"
+    }
+  ],
+  "sort": [],
+  "title": "6502v2 lcd",
+  "foldername": "6502v2 lcd",
+  "schfilename": "6502v2 lcd.json",
+  "schfilemtime": 1691999129344
+}

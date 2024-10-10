@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJ/rZEr+mM8a6YZqPxjhadwPxaCCr0d1MB+GviAThTIEkRviNt++UymQbWEQC35ACUm/kwC2OsBTzd6o41Ch0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breck\\Documents\\_CIRCUITS AND 6502\\programs\\creatingSinBin\\CommodoreFontExtraction\\CommodoreFontExtraction\\CommodoreFontExtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breck\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\breck\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

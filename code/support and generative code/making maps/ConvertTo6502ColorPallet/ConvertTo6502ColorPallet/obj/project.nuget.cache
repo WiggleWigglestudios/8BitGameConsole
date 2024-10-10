@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aeTV4TAs1XFtFaZVrL8/zKqZ1NAOMokW+HLlC8glvV9DhHm9vftEmbzufc6aE9AVbsDduazMsItRqEQPWer7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breck\\Documents\\_CIRCUITS AND 6502\\programs\\making maps\\ConvertTo6502ColorPallet\\ConvertTo6502ColorPallet\\ConvertTo6502ColorPallet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breck\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\breck\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

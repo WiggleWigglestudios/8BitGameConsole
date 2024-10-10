@@ -1,0 +1,90 @@
+{
+  "uuid": "fa6dcf6c48a574ad1e87c95152c31e0f",
+  "path": "Offline/6502v2 lcd connector",
+  "name": "6502v2 lcd connector",
+  "content": "",
+  "created_at": "2023-08-14 01:34:36",
+  "updated_at": "2023-08-14 01:45:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "dd22f12e9d081d018b59e39d061e421c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "97e3dfd84929426786ec7929e48dfb0d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x16",
+          2,
+          "HDR-M-2.54_1X16",
+          "J1,J4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J2,J3",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ]
+      ],
+      "updateTime": 1691999124,
+      "createTime": 1691998477,
+      "histories": [],
+      "created_at": "2023-08-14 01:34:37",
+      "updated_at": "2023-08-14 01:45:24"
+    },
+    {
+      "uuid": "318d72070a0f75d51d9e35e0f48947de",
+      "puuid": "fa6dcf6c48a574ad1e87c95152c31e0f",
+      "title": "PCB_6502v2 lcd connector",
+      "filename": "PCB_6502v2 lcd connector.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "70aa5812f21f4991bf427395d51849f4": 2
+      },
+      "BOM": [],
+      "updateTime": 1691999035,
+      "createTime": 1691998593,
+      "histories": [],
+      "created_at": "2023-08-14 01:36:33",
+      "updated_at": "2023-08-14 01:43:55"
+    }
+  ],
+  "sort": [],
+  "title": "6502v2 lcd connector",
+  "foldername": "6502v2 lcd connector",
+  "schfilename": "6502v2 lcd connector.json",
+  "schfilemtime": 1691999124200
+}

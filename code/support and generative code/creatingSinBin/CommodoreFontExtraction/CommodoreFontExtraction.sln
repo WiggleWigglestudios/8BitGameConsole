@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommodoreFontExtraction", "CommodoreFontExtraction\CommodoreFontExtraction.csproj", "{177AC5F6-A04E-4435-B27A-2C2493085058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177AC5F6-A04E-4435-B27A-2C2493085058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177AC5F6-A04E-4435-B27A-2C2493085058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177AC5F6-A04E-4435-B27A-2C2493085058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177AC5F6-A04E-4435-B27A-2C2493085058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C0C116-A1B3-4503-BD92-5D9CF37E1B7E}
+	EndGlobalSection
+EndGlobal

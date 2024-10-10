@@ -1,0 +1,15 @@
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\bin\Debug\net7.0\MakeCollisionMap.exe
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\bin\Debug\net7.0\MakeCollisionMap.deps.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\bin\Debug\net7.0\MakeCollisionMap.runtimeconfig.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\bin\Debug\net7.0\MakeCollisionMap.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\bin\Debug\net7.0\MakeCollisionMap.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.csproj.AssemblyReference.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.AssemblyInfoInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.AssemblyInfo.cs
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.csproj.CoreCompileInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\refint\MakeCollisionMap.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\MakeCollisionMap.genruntimeconfig.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\genearteCollisionMap\MakeCollisionMap\MakeCollisionMap\obj\Debug\net7.0\ref\MakeCollisionMap.dll

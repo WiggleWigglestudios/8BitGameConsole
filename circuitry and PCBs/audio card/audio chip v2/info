@@ -1,0 +1,438 @@
+{
+  "uuid": "ad7a877f0d3ace8b2450785b157a1d04",
+  "path": "Offline/audio%20chip%20v2",
+  "name": "audio chip v2",
+  "content": "",
+  "created_at": "2023-10-21 13:41:41",
+  "updated_at": "2023-10-22 01:20:10",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b2c45e43f20e1d4f63c1787415c60a2f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "54ca6c982a49472cad4feaeb0dbb4fe7": 4,
+        "a33607941887460abc9cea45459a2f77": 6,
+        "8b1583930d4c44ca97dd10d20ad9c9d2": 1,
+        "97e3dfd84929426786ec7929e48dfb0d": 2,
+        "b31b2d2300794b52adae2dbbd3c64aad": 2,
+        "2fa53d590f544429ab8fcbd581d715c1": 74,
+        "1119b669d65843b4aa0070178f6cc778": 4,
+        "baae9fa8b17b4747bac36d31655279b9": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 3,
+        "e23a437e1e0548369640c1da3526076f": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 28,
+        "ff961f0e1b0e4647aa89f4d4ef76c7c0": 1,
+        "027f8bc954894c719c5a946a839828a0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "SN74HC688PWR",
+          4,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "ADDRESSCHECKER1,ADDRESSCHECKER2,SOUNDEQUAL,SOUNDEQUAL2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "SN74HC688PWR",
+            "Supplier Part": "C132045",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C132045&%26type=1&ref=editor",
+            "spiceSymbolName": "SN74HC688PWR",
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "54ca6c982a49472cad4feaeb0dbb4fe7"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x16",
+          2,
+          "HDR-M-2.54_1X16",
+          "ADDRESSPINS,DATAPINS",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x16",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZ-TH_BD12.0-P6.00-D0.9-RD",
+          "BUZZER1",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900014030",
+            "Manufacturer": "null",
+            "Manufacturer Part": "buzzer",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9900014030&%26type=1&ref=editor",
+            "spiceSymbolName": "BUZZER",
+            "puuid": "2739dcdf8a8e413a8b48191b26682f31",
+            "uuid": "baae9fa8b17b4747bac36d31655279b9"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          3,
+          "HDR-F-2.54_1X2",
+          "COMBINEDOUTPUT,SPEAKER1OUTPUT,SPEAKER2OUTPUT",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "LED-0603_R",
+          28,
+          "LED0603_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED11,LED12,LED13,LED14,LED15,LED16,LED17,LED18,LED19,LED20,LED21,LED22,LED25,LED26,LED27,LED28,LED29,LED30,LED31,LED32",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Supplier Part": "C72044",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "LED-0603_R",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "74HC590D,118",
+          6,
+          "SO-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "LOWERSOUNDCOUNTER1,LOWERSOUNDCOUNTER2,SOUNDOUTPUTCOUNTER1,SOUNDOUTPUTCOUNTER2,UPPERSOUNDCOUNTER1,UPPERSOUNDCOUNTER2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C547118",
+            "Manufacturer": "Nexperia(安世)",
+            "Manufacturer Part": "74HC590D,118",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C547118&%26type=1&ref=editor",
+            "spiceSymbolName": "74HC590D,118",
+            "puuid": "e22b6bd92f084998af49afa4da1dfe45",
+            "uuid": "a33607941887460abc9cea45459a2f77"
+          }
+        ],
+        [
+          "MC74HC02ADG",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "NOR",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C233598",
+            "Manufacturer": "onsemi(安森美)",
+            "Manufacturer Part": "MC74HC02ADG",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C233598&%26type=1&ref=editor",
+            "spiceSymbolName": "MC74HC02ADG",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "8b1583930d4c44ca97dd10d20ad9c9d2"
+          }
+        ],
+        [
+          "1k",
+          64,
+          "R1206",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R37,R38,R39,R40,R41,R42,R45,R46,R47,R48,R49,R50,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,VR1_1K,VR2_1K,VR13_1K,VR14_1K",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "3386T",
+          "R12",
+          {
+            "Supplier": "",
+            "Manufacturer": "Jameco ValuePro",
+            "Manufacturer Part": "3386T-1-LS1MEG(105)",
+            "Resistance(Ohms)": "1M",
+            "Supplier Part": "2161422",
+            "link": "https://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10001&langId=-1&catalogId=10001&productId=2161422",
+            "Contributor": "dissy614",
+            "spiceSymbolName": "3/8 Inch Square Cermet Potentiometer 1MEG Ohms 1/2 Watt 1 Turn Thru Hole",
+            "puuid": "c4cd557b833444b39ce2426fb49e8b08",
+            "uuid": "e23a437e1e0548369640c1da3526076f"
+          }
+        ],
+        [
+          "CD74HC377PWR",
+          4,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "REG1,REG2,REG3,REG4",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2677832",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "CD74HC377PWR",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C2677832&%26type=1&ref=editor",
+            "spiceSymbolName": "CD74HC377PWR",
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "1119b669d65843b4aa0070178f6cc778"
+          }
+        ],
+        [
+          "SN74HCS238QDRQ1",
+          1,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "RS",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2878562",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "SN74HCS238QDRQ1",
+            "link": "https://lcsc.com/eda_search?q=C2878562&%26type=1&ref=editor",
+            "spiceSymbolName": "SN74HCS238QDRQ1",
+            "puuid": "5cafa9ae5a9e4b2ab529c9f08b47eb94",
+            "uuid": "ff961f0e1b0e4647aa89f4d4ef76c7c0"
+          }
+        ],
+        [
+          "DS01C-254-L-08BE",
+          2,
+          "DS01C-254-L-08BE",
+          "S1,S2",
+          {
+            "Manufacturer": "CUI Devices",
+            "Manufacturer Part": "DS01C-254-L-07BE",
+            "Supplier": "Mouser",
+            "Supplier Part": "490-DS01C-254-L-07BE",
+            "link": "https://www.mouser.com/datasheet/2/670/ds01-254-1777712.pdf",
+            "Contributor": "CK Sim",
+            "spiceSymbolName": "DS01C-254-L-08BE",
+            "puuid": "43511be52cf64c16aa23034c71548181",
+            "uuid": "b31b2d2300794b52adae2dbbd3c64aad"
+          }
+        ],
+        [
+          "SN74HC08DR",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C337768",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "SN74HC08DR",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C337768&%26type=1&ref=editor",
+            "spiceSymbolName": "SN74HC08DR",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "027f8bc954894c719c5a946a839828a0"
+          }
+        ],
+        [
+          "330",
+          2,
+          "R1206",
+          "VR3_330,VR12_330",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "150",
+          2,
+          "R1206",
+          "VR4_150,VR11_150",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "68",
+          2,
+          "R1206",
+          "VR5_68,VR10_68",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "30",
+          2,
+          "R1206",
+          "VR6_30,VR9_30",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "16",
+          2,
+          "R1206",
+          "VR7_16,VR8_16",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_1206_EU",
+            "Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ]
+      ],
+      "updateTime": 1697953510,
+      "createTime": 1697869676,
+      "histories": [],
+      "created_at": "2023-10-21 00:27:56",
+      "updated_at": "2023-10-21 23:45:10"
+    },
+    {
+      "uuid": "d12cd88707a163a8433236b74e5632ad",
+      "title": "PCB_audio chip",
+      "filename": "PCB_audio chip.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 33,
+        "2739dcdf8a8e413a8b48191b26682f31": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "c4cd557b833444b39ce2426fb49e8b08": 1,
+        "43511be52cf64c16aa23034c71548181": 2,
+        "1586800a83194e228c6527ad76c86945": 4,
+        "e22b6bd92f084998af49afa4da1dfe45": 3,
+        "0f2364c02f094100b1b3205c9d829099": 2
+      },
+      "BOM": [],
+      "updateTime": 1697880927,
+      "createTime": 1697876360,
+      "histories": [],
+      "created_at": "2023-10-21 02:19:20",
+      "updated_at": "2023-10-21 03:35:27"
+    },
+    {
+      "uuid": "e018cd372b5936f67c5109fde6b00494",
+      "puuid": "ad7a877f0d3ace8b2450785b157a1d04",
+      "title": "PCB_audio chip v2",
+      "filename": "PCB_audio chip v2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2739dcdf8a8e413a8b48191b26682f31": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 28,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 74,
+        "c4cd557b833444b39ce2426fb49e8b08": 1,
+        "43511be52cf64c16aa23034c71548181": 2,
+        "1586800a83194e228c6527ad76c86945": 8,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "e22b6bd92f084998af49afa4da1dfe45": 6,
+        "0f2364c02f094100b1b3205c9d829099": 2,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 3
+      },
+      "BOM": [],
+      "updateTime": 1697951905,
+      "createTime": 1697939920,
+      "histories": [],
+      "created_at": "2023-10-21 19:58:40",
+      "updated_at": "2023-10-21 23:18:25"
+    },
+    {
+      "uuid": "368dd41fc44c2af99f8867d2d96d9e21",
+      "puuid": "ad7a877f0d3ace8b2450785b157a1d04",
+      "title": "PCB_audio chip v2_2",
+      "filename": "PCB_audio chip v2_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1586800a83194e228c6527ad76c86945": 8,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "2739dcdf8a8e413a8b48191b26682f31": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 3,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 28,
+        "e22b6bd92f084998af49afa4da1dfe45": 6,
+        "0f2364c02f094100b1b3205c9d829099": 2,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 74,
+        "c4cd557b833444b39ce2426fb49e8b08": 1,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "43511be52cf64c16aa23034c71548181": 2
+      },
+      "BOM": [],
+      "updateTime": 1697959210,
+      "createTime": 1697951975,
+      "histories": [],
+      "created_at": "2023-10-21 23:19:35",
+      "updated_at": "2023-10-22 01:20:10"
+    }
+  ],
+  "sort": [],
+  "title": "audio chip v2",
+  "foldername": "audio chip v2",
+  "schfilename": "audio chip v2.json",
+  "schfilemtime": 1697953510318
+}

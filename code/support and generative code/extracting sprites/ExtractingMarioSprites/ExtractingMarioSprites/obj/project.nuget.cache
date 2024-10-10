@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t37iKaK1YswBep+EcRhvzI8cRFN5pD7nhLr964345vSUBfH+80XtTVzI8DuX22RYbK3Qe8lv5K2C6/HhIl0SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breck\\Documents\\_CIRCUITS AND 6502\\programs\\extracting sprites\\ExtractingMarioSprites\\ExtractingMarioSprites\\ExtractingMarioSprites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breck\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\breck\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

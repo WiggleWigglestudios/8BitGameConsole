@@ -1,0 +1,752 @@
+{
+  "uuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+  "path": "Offline/6502Attempt1",
+  "name": "6502Attempt1",
+  "content": "",
+  "created_at": "2023-07-15 01:01:59",
+  "updated_at": "2023-08-12 17:10:55",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fe4666bf3d47cf7ee46eb97eefad2ca6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3ecbceb8d8a5418aaf020a9a07058fbd": 1,
+        "c49ab4dc94d14eea84d70d90c74dd7ab": 1,
+        "18a164c1e9174329b5b287fbf5a380cc": 1,
+        "c635cabde545422c88e1bf223cae218e": 1,
+        "661a8fa9fb9a488ca70fcb2d906c7e12": 1,
+        "65a1993f8e994b7da2a1d182399ee46f": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "53549ad40d554dd58ad44f2fab7bbbaf": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "97e3dfd84929426786ec7929e48dfb0d": 2,
+        "404aa9221ff94de597b8734806e7c74f": 5,
+        "15598ee79fd047758ce163d24eb51e67": 32,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1,
+        "19e0f48818584722b29727c2475a812c": 1,
+        "92c32ceaaac84139add7ebda884f0a47": 1,
+        "24e45360a75d4413b40d4dad1a13508a": 1,
+        "aed34d612f4940e0aa266c4de1c398bc": 10,
+        "ec32f3ce430047218e4bc021ae28d057": 8,
+        "ecc353b5828242f599772fbb93954a6d": 27,
+        "3fd6bf5848564216a1d3f80b245c6b53": 4,
+        "70701b113fd4481d85b3f8c5a5be0e73": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          2,
+          "HDR-M-2.54_1X1",
+          "1MHZCLOCKOUT1,CLOCKOUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "5V/GRD_IN,5V/GRD_OUT",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "Through Hole Capacitor",
+          10,
+          "THROUGH HOLE TANTALUM CAPACITOR",
+          "74HC00NCAP,6502CAP,7432CAP,AT28C256-15PU_CAP,EXTRACAP,EXTRACAP1,EXTRACAP2,EXTRACAP3,HM62256B_CAP,WD65C22_CAP",
+          {
+            "BOM_Manufacturer Part": "TAP106K016SCS",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "4d65fbb8acc247adaad8c85364af6f69",
+            "uuid": "aed34d612f4940e0aa266c4de1c398bc"
+          }
+        ],
+        [
+          "C64 74LS32",
+          1,
+          "C64 74LS32",
+          "74LS32OR",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8d4402724d324c5a9dfe677543b4e92f",
+            "uuid": "19e0f48818584722b29727c2475a812c"
+          }
+        ],
+        [
+          "MOS6502",
+          1,
+          "DIP40",
+          "6502",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "44a1693bc7854116bd8e6d16b2b3ee36",
+            "uuid": "3ecbceb8d8a5418aaf020a9a07058fbd"
+          }
+        ],
+        [
+          "6522_i/o",
+          1,
+          "HDR-M-2.54_1X16",
+          "6522_I/O",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "6522_irqOut",
+          1,
+          "HDR-M-2.54_1X1",
+          "6522_IRQOUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "addressOut",
+          1,
+          "HDR-M-2.54_1X16",
+          "ADDRESSOUT",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "2K",
+          27,
+          "GENERIC THROUGH-HOLE RESISTOR",
+          "ALEDR_0,ALEDR_1,ALEDR_2,ALEDR_3,ALEDR_4,ALEDR_5,ALEDR_6,ALEDR_7,ALEDR_8,ALEDR_9,ALEDR_10,ALEDR_11,ALEDR_12,ALEDR_13,ALEDR_14,ALEDR_15,CLOCKLEDR,DLEDR_0,DLEDR_1,DLEDR_2,DLEDR_3,DLEDR_4,DLEDR_5,DLEDR_6,DLEDR_7,PA0_OUT_LED_R31,POWER_LED_RESISTOR",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C348946",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "EWWR0006J10K0T9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e904140b0b984535be37de9e00ebf89f",
+            "uuid": "15598ee79fd047758ce163d24eb51e67"
+          }
+        ],
+        [
+          "Slide Switches_SPDT(Single Pole Double Throw)",
+          4,
+          "SW-TH_SS-12D01-GX",
+          "ALEDSWITCH,CLOCKSWITCH,DLEDSWITCH2,POWER_SWITCH",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "47f68f6fbcb44ed3b88a25ae761131fb",
+            "uuid": "3fd6bf5848564216a1d3f80b245c6b53"
+          }
+        ],
+        [
+          "ECE362 - LED",
+          27,
+          "LED-3MM-2.54MM-THROUGH HOLE-FIXED",
+          "ALED_0,ALED_1,ALED_2,ALED_3,ALED_4,ALED_5,ALED_6,ALED_7,ALED_8,ALED_9,ALED_10,ALED_11,ALED_12,ALED_13,ALED_14,ALED_15,CLOCK_LED,DLED_0,DLED_1,DLED_2,DLED_3,DLED_4,DLED_5,DLED_6,DLED_7,PA0_OUT_LED,POWER_LED",
+          {
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Mouser",
+            "puuid": "f80857e8ca9b486bbd61d48f5608700a",
+            "uuid": "ecc353b5828242f599772fbb93954a6d"
+          }
+        ],
+        [
+          "AT28C256-15PU",
+          1,
+          "PDIP-28_L37.0-W13.5-P2.54-LS15.6-BL",
+          "AT28C256-15PU",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1348752",
+            "BOM_Manufacturer": "MICROCHIP(美国微芯)",
+            "BOM_Manufacturer Part": "AT28C256-15PU",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "cf2846522daf4845a6d8d8b8b2e17553",
+            "uuid": "53549ad40d554dd58ad44f2fab7bbbaf"
+          }
+        ],
+        [
+          "dataOut/In",
+          1,
+          "HDR-M-2.54_1X8",
+          "DATAOUT/IN",
+          {
+            "BOM_Supplier Part": "C190820",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "fb11a1cdebf6433b8a3c664a100689e6",
+            "uuid": "92c32ceaaac84139add7ebda884f0a47"
+          }
+        ],
+        [
+          "diableRam",
+          1,
+          "HDR-M-2.54_1X1",
+          "DIABLERAM",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "1K",
+          4,
+          "GENERIC THROUGH-HOLE RESISTOR",
+          "DIABLERAM_R,IRQR,RDY6502R,RESET_RESISTOR",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C348946",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "EWWR0006J10K0T9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e904140b0b984535be37de9e00ebf89f",
+            "uuid": "15598ee79fd047758ce163d24eb51e67"
+          }
+        ],
+        [
+          "HM62256B",
+          1,
+          "DIL-28",
+          "HM62256B",
+          {
+            "BOM_Manufacturer": "Hitachi",
+            "BOM_Manufacturer Part": "HM62256B",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "06c9eda2888f405e837d38edfbe825a3",
+            "uuid": "661a8fa9fb9a488ca70fcb2d906c7e12"
+          }
+        ],
+        [
+          "irq/nmi in",
+          2,
+          "HDR-F-2.54_1X2",
+          "IRQ/NMI_IN,IRQ/NMI_IN1",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "MM74HC00N",
+          1,
+          "DIP14",
+          "MM74HC00NOR",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "18a164c1e9174329b5b287fbf5a380cc"
+          }
+        ],
+        [
+          "STANDOFF_F/FM3_5MM",
+          8,
+          "STANDOFF_HEX_FEMALE_550X500_M3X0.5_MTGP850H320",
+          "MP1,MP2,MP3,MP4,MP5,MP6,MP7,MP8",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8c0b39d8d00947c6af0112c84fe2b750",
+            "uuid": "ec32f3ce430047218e4bc021ae28d057"
+          }
+        ],
+        [
+          "nand extra gate",
+          1,
+          "HDR-M-2.54_1X3",
+          "NANDGATEEXTRA",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "nmir",
+          1,
+          "GENERIC THROUGH-HOLE RESISTOR",
+          "NMIR",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C348946",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "EWWR0006J10K0T9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e904140b0b984535be37de9e00ebf89f",
+            "uuid": "15598ee79fd047758ce163d24eb51e67"
+          }
+        ],
+        [
+          "optionalClockIn",
+          1,
+          "HDR-M-2.54_1X1",
+          "OPTIONALCLOCKIN",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "ORGATEEXTRA",
+          1,
+          "HDR-M-2.54_1X9",
+          "ORGATEEXTRA",
+          {
+            "BOM_Supplier Part": "C225484",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "af1184eb33cb4ad59b43849943842bf8",
+            "uuid": "24e45360a75d4413b40d4dad1a13508a"
+          }
+        ],
+        [
+          "PUSHBUTTON 4PIN (4.5MM*6.1MM) COPY",
+          1,
+          "PUSHBUTTON 4PIN (4.5MM*6.1MM)",
+          "RESETBUTTON",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8255cdc547b34c76a759415b5a5dc053",
+            "uuid": "65a1993f8e994b7da2a1d182399ee46f"
+          }
+        ],
+        [
+          "ZIF40 COPY",
+          1,
+          "40 PIN ZIF SOCKET",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "New SchematicLib",
+            "puuid": "a59db9167378420b83cbd9fab9a8d948",
+            "uuid": "70701b113fd4481d85b3f8c5a5be0e73"
+          }
+        ],
+        [
+          "WD65C22",
+          1,
+          "DIP-40_L52.0-W13.7-P2.54-LS15.2-BL",
+          "WD65C22",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ffc99a9154af47da9e011f86dc970875",
+            "uuid": "c49ab4dc94d14eea84d70d90c74dd7ab"
+          }
+        ],
+        [
+          "ACO-xxxMHz-A",
+          1,
+          "OSCILLATOR_DIP-14",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "b8796d6b14594b47a5d5c3311997755a",
+            "uuid": "c635cabde545422c88e1bf223cae218e"
+          }
+        ]
+      ],
+      "updateTime": 1690878908,
+      "createTime": 1689404519,
+      "histories": [],
+      "created_at": "2023-07-15 01:01:59",
+      "updated_at": "2023-08-01 02:35:08"
+    },
+    {
+      "uuid": "92e314c2ae4ce46f60d831e2f96a49fe",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_2",
+      "filename": "PCB_6502Attempt1_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "0b74a87e344e417188f85b1c78958469": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "398691f1f785460098bbe5ee6590333c": 4,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1,
+        "3dcff99128ca4b34bf28e3afe8042da2": 1
+      },
+      "BOM": [],
+      "updateTime": 1689449465,
+      "createTime": 1689449355,
+      "histories": [],
+      "created_at": "2023-07-15 13:29:15",
+      "updated_at": "2023-07-15 13:31:05"
+    },
+    {
+      "uuid": "b6210512ab19fc88393007eef6792c85",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_3",
+      "filename": "PCB_6502Attempt1_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "0b74a87e344e417188f85b1c78958469": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "e904140b0b984535be37de9e00ebf89f": 6,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "17af714fa0c941e8919cb99f636c1aa1": 2,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1
+      },
+      "BOM": [],
+      "updateTime": 1689455122,
+      "createTime": 1689455070,
+      "histories": [],
+      "created_at": "2023-07-15 15:04:30",
+      "updated_at": "2023-07-15 15:05:22"
+    },
+    {
+      "uuid": "719ae6e332ac5dde520541155d89a486",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1",
+      "filename": "PCB_6502Attempt1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "0b74a87e344e417188f85b1c78958469": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "17af714fa0c941e8919cb99f636c1aa1": 2,
+        "e904140b0b984535be37de9e00ebf89f": 6,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1
+      },
+      "BOM": [],
+      "updateTime": 1689455259,
+      "createTime": 1689455259,
+      "histories": [],
+      "created_at": "2023-07-15 15:07:39",
+      "updated_at": "2023-07-15 15:07:39"
+    },
+    {
+      "uuid": "d860971abeac80523c842a646a254f1e",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_4",
+      "filename": "PCB_6502Attempt1_4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "17af714fa0c941e8919cb99f636c1aa1": 4,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "e904140b0b984535be37de9e00ebf89f": 31,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "0b74a87e344e417188f85b1c78958469": 26,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8c0b39d8d00947c6af0112c84fe2b750": 9
+      },
+      "BOM": [],
+      "updateTime": 1689537524,
+      "createTime": 1689486684,
+      "histories": [],
+      "created_at": "2023-07-15 23:51:24",
+      "updated_at": "2023-07-16 13:58:44"
+    },
+    {
+      "uuid": "a118fb857748739a5e66554a2d7a4ed7",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_5",
+      "filename": "PCB_6502Attempt1_5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "17af714fa0c941e8919cb99f636c1aa1": 4,
+        "0b74a87e344e417188f85b1c78958469": 27,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "e904140b0b984535be37de9e00ebf89f": 32,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "8c0b39d8d00947c6af0112c84fe2b750": 8,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1
+      },
+      "BOM": [],
+      "updateTime": 1689541518,
+      "createTime": 1689537580,
+      "histories": [],
+      "created_at": "2023-07-16 13:59:40",
+      "updated_at": "2023-07-16 15:05:18"
+    },
+    {
+      "uuid": "8f1fc68c98cf433d2d1cff50092e1d95",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_6",
+      "filename": "PCB_6502Attempt1_6.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "e904140b0b984535be37de9e00ebf89f": 32,
+        "47f68f6fbcb44ed3b88a25ae761131fb": 4,
+        "f80857e8ca9b486bbd61d48f5608700a": 27,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "8c0b39d8d00947c6af0112c84fe2b750": 8,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1
+      },
+      "BOM": [],
+      "updateTime": 1690868843,
+      "createTime": 1690868081,
+      "histories": [],
+      "created_at": "2023-07-31 23:34:41",
+      "updated_at": "2023-07-31 23:47:23"
+    },
+    {
+      "uuid": "0a4b742e93c65017e1cebf08f78b0936",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_7",
+      "filename": "PCB_6502Attempt1_7.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "e904140b0b984535be37de9e00ebf89f": 32,
+        "47f68f6fbcb44ed3b88a25ae761131fb": 4,
+        "f80857e8ca9b486bbd61d48f5608700a": 27,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "8c0b39d8d00947c6af0112c84fe2b750": 8,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1
+      },
+      "BOM": [],
+      "updateTime": 1690874537,
+      "createTime": 1690868904,
+      "histories": [],
+      "created_at": "2023-07-31 23:48:24",
+      "updated_at": "2023-08-01 01:22:17"
+    },
+    {
+      "uuid": "3b65b4d6fcb0ce20c653370b5cb353e5",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_8",
+      "filename": "PCB_6502Attempt1_8.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "f80857e8ca9b486bbd61d48f5608700a": 27,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1,
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "e904140b0b984535be37de9e00ebf89f": 32,
+        "47f68f6fbcb44ed3b88a25ae761131fb": 4,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "8c0b39d8d00947c6af0112c84fe2b750": 8,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1
+      },
+      "BOM": [],
+      "updateTime": 1690878520,
+      "createTime": 1690877784,
+      "histories": [],
+      "created_at": "2023-08-01 02:16:24",
+      "updated_at": "2023-08-01 02:28:40"
+    },
+    {
+      "uuid": "a34b4d2d51c6eb7ade6abdf67125119a",
+      "puuid": "0d6377aee27f39ab5cd87d4a7cf8f132",
+      "title": "PCB_6502Attempt1_9",
+      "filename": "PCB_6502Attempt1_9.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "f80857e8ca9b486bbd61d48f5608700a": 27,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 1,
+        "b8796d6b14594b47a5d5c3311997755a": 1,
+        "44a1693bc7854116bd8e6d16b2b3ee36": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "4d65fbb8acc247adaad8c85364af6f69": 10,
+        "8d4402724d324c5a9dfe677543b4e92f": 1,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "e904140b0b984535be37de9e00ebf89f": 32,
+        "47f68f6fbcb44ed3b88a25ae761131fb": 4,
+        "cf2846522daf4845a6d8d8b8b2e17553": 1,
+        "06c9eda2888f405e837d38edfbe825a3": 1,
+        "8c0b39d8d00947c6af0112c84fe2b750": 8,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "af1184eb33cb4ad59b43849943842bf8": 1,
+        "8255cdc547b34c76a759415b5a5dc053": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1
+      },
+      "BOM": [],
+      "updateTime": 1691881855,
+      "createTime": 1690878905,
+      "histories": [],
+      "created_at": "2023-08-01 02:35:05",
+      "updated_at": "2023-08-12 17:10:55"
+    }
+  ],
+  "sort": [],
+  "title": "6502Attempt1",
+  "foldername": "6502Attempt1",
+  "schfilename": "6502Attempt1.json",
+  "schfilemtime": 1690878908850
+}

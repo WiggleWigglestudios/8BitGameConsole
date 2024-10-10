@@ -1,0 +1,15 @@
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\bin\Debug\net7.0\BinToNum.exe
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\bin\Debug\net7.0\BinToNum.deps.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\bin\Debug\net7.0\BinToNum.runtimeconfig.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\bin\Debug\net7.0\BinToNum.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\bin\Debug\net7.0\BinToNum.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.csproj.AssemblyReference.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.AssemblyInfoInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.AssemblyInfo.cs
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.csproj.CoreCompileInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\refint\BinToNum.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\BinToNum.genruntimeconfig.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\converting bin to numbers\BinToNum\BinToNum\obj\Debug\net7.0\ref\BinToNum.dll

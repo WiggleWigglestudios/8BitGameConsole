@@ -1,0 +1,17 @@
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\GeneratingMusicFor6502.exe
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\GeneratingMusicFor6502.deps.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\GeneratingMusicFor6502.runtimeconfig.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\GeneratingMusicFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\GeneratingMusicFor6502.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.csproj.AssemblyReference.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.AssemblyInfoInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.AssemblyInfo.cs
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.csproj.CoreCompileInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.csproj.CopyComplete
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\refint\GeneratingMusicFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\GeneratingMusicFor6502.genruntimeconfig.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\generatingMusic\GeneratingMusicFor6502\GeneratingMusicFor6502\obj\Debug\net7.0\ref\GeneratingMusicFor6502.dll

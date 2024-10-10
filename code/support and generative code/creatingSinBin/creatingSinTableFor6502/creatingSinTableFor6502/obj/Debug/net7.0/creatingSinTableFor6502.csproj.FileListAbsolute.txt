@@ -1,0 +1,15 @@
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\bin\Debug\net7.0\creatingSinTableFor6502.exe
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\bin\Debug\net7.0\creatingSinTableFor6502.deps.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\bin\Debug\net7.0\creatingSinTableFor6502.runtimeconfig.json
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\bin\Debug\net7.0\creatingSinTableFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\bin\Debug\net7.0\creatingSinTableFor6502.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.csproj.AssemblyReference.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.AssemblyInfoInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.AssemblyInfo.cs
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.csproj.CoreCompileInputs.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\refint\creatingSinTableFor6502.dll
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.pdb
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\creatingSinTableFor6502.genruntimeconfig.cache
+C:\Users\breck\Documents\_CIRCUITS AND 6502\programs\creatingSinBin\creatingSinTableFor6502\creatingSinTableFor6502\obj\Debug\net7.0\ref\creatingSinTableFor6502.dll

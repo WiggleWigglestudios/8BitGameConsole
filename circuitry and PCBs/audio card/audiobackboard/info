@@ -1,0 +1,274 @@
+{
+  "uuid": "e0f9eff79bf255655a13906abfaa6f2e",
+  "path": "Offline/audiobackboard",
+  "name": "audiobackboard",
+  "content": "",
+  "created_at": "2023-10-22 01:21:41",
+  "updated_at": "2023-11-07 21:47:00",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4d897763670ca6e141713e47b5c91321",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2fa53d590f544429ab8fcbd581d715c1": 62,
+        "027f8bc954894c719c5a946a839828a0": 1,
+        "1119b669d65843b4aa0070178f6cc778": 8,
+        "5cbe824183374fac8e4c1ae848199ce3": 56,
+        "ff961f0e1b0e4647aa89f4d4ef76c7c0": 1,
+        "b31b2d2300794b52adae2dbbd3c64aad": 2,
+        "97e3dfd84929426786ec7929e48dfb0d": 2,
+        "54ca6c982a49472cad4feaeb0dbb4fe7": 2,
+        "8b1583930d4c44ca97dd10d20ad9c9d2": 1,
+        "92c32ceaaac84139add7ebda884f0a47": 8,
+        "e23a437e1e0548369640c1da3526076f": 1,
+        "baae9fa8b17b4747bac36d31655279b9": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1,
+        "a7291ceaee5442a999df26c55c7e675d": 4,
+        "23c16fb3b49e4bb597847b73ece0fbc5": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "SN74HC688PWR",
+          2,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "ADDRESSCHECKER1,ADDRESSCHECKER2",
+          {
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "54ca6c982a49472cad4feaeb0dbb4fe7",
+            "BOM_Manufacturer Part": "SN74HC688PWR"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x16",
+          2,
+          "HDR-M-2.54_1X16",
+          "ADDRESSPINS1,DATAPINS1",
+          {
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZ-TH_BD12.0-P6.00-D0.9-RD",
+          "BUZZER1",
+          {
+            "puuid": "2739dcdf8a8e413a8b48191b26682f31",
+            "uuid": "baae9fa8b17b4747bac36d31655279b9",
+            "BOM_Manufacturer Part": "buzzer"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-F-2.54_1X2",
+          "COMBINEDOUTPUT1",
+          {
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          4,
+          "HDR-F-2.54_1X3",
+          "INPUT1HEADER,INPUT2HEADER,INPUT3HEADER,INPUT4HEADER",
+          {
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "LED-0603_R",
+          56,
+          "LED0603_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED17,LED18,LED19,LED20,LED21,LED22,LED23,LED24,LED25,LED26,LED27,LED28,LED29,LED30,LED31,LED32,LED33,LED34,LED35,LED36,LED37,LED38,LED39,LED40,LED41,LED42,LED43,LED44,LED45,LED46,LED47,LED48,LED49,LED50,LED51,LED52,LED53,LED54,LED55,LED56",
+          {
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T"
+          }
+        ],
+        [
+          "MC74HC02ADG",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "NOR1",
+          {
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "8b1583930d4c44ca97dd10d20ad9c9d2",
+            "BOM_Manufacturer Part": "MC74HC02ADG"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          8,
+          "HDR-M-2.54_1X8",
+          "OUTPUTF1,OUTPUTF2,OUTPUTF3,OUTPUTF4,OUTPUTV1,OUTPUTV2,OUTPUTV3,OUTPUTV4",
+          {
+            "puuid": "fb11a1cdebf6433b8a3c664a100689e6",
+            "uuid": "92c32ceaaac84139add7ebda884f0a47"
+          }
+        ],
+        [
+          "1k",
+          62,
+          "R1206",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R11,R12,R22,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78",
+          {
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "3386T",
+          "R79",
+          {
+            "puuid": "c4cd557b833444b39ce2426fb49e8b08",
+            "uuid": "e23a437e1e0548369640c1da3526076f",
+            "BOM_Manufacturer Part": "3386T-1-LS1MEG(105)"
+          }
+        ],
+        [
+          "CD74HC377PWR",
+          8,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "REG1,REG2,REG3,REG4,REG5,REG6,REG7,REG8",
+          {
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "1119b669d65843b4aa0070178f6cc778",
+            "BOM_Manufacturer Part": "CD74HC377PWR"
+          }
+        ],
+        [
+          "1MΩ",
+          2,
+          "RES-ARRAY-TH_9P-P2.54-D1.0",
+          "RN1,RN2",
+          {
+            "BOM_Manufacturer Part": "4609X-101-105LF",
+            "puuid": "c946f1098ca14a18a5ecfc2c3fdd9cec",
+            "uuid": "23c16fb3b49e4bb597847b73ece0fbc5"
+          }
+        ],
+        [
+          "SN74HCS238QDRQ1",
+          1,
+          "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+          "RS1",
+          {
+            "puuid": "5cafa9ae5a9e4b2ab529c9f08b47eb94",
+            "uuid": "ff961f0e1b0e4647aa89f4d4ef76c7c0",
+            "BOM_Manufacturer Part": "SN74HCS238QDRQ1"
+          }
+        ],
+        [
+          "DS01C-254-L-08BE",
+          2,
+          "DS01C-254-L-08BE",
+          "S1,S2",
+          {
+            "puuid": "43511be52cf64c16aa23034c71548181",
+            "uuid": "b31b2d2300794b52adae2dbbd3c64aad",
+            "BOM_Manufacturer Part": "DS01C-254-L-07BE"
+          }
+        ],
+        [
+          "SN74HC08DR",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "027f8bc954894c719c5a946a839828a0",
+            "BOM_Manufacturer Part": "SN74HC08DR"
+          }
+        ]
+      ],
+      "updateTime": 1699337213,
+      "createTime": 1697959302,
+      "histories": [],
+      "created_at": "2023-10-22 01:21:42",
+      "updated_at": "2023-11-06 23:06:53"
+    },
+    {
+      "uuid": "e9cda98642ac74a9c4b6e6f2dd9ce06e",
+      "puuid": "e0f9eff79bf255655a13906abfaa6f2e",
+      "title": "PCB_audiobackboard",
+      "filename": "PCB_audiobackboard.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1586800a83194e228c6527ad76c86945": 10,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "2739dcdf8a8e413a8b48191b26682f31": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "f83673d09e13450d934ca6be4be5af8f": 4,
+        "0f2364c02f094100b1b3205c9d829099": 2,
+        "fb11a1cdebf6433b8a3c664a100689e6": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 22,
+        "c4cd557b833444b39ce2426fb49e8b08": 1,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "43511be52cf64c16aa23034c71548181": 2
+      },
+      "BOM": [],
+      "updateTime": 1697970214,
+      "createTime": 1697961302,
+      "histories": [],
+      "created_at": "2023-10-22 01:55:02",
+      "updated_at": "2023-10-22 04:23:34"
+    },
+    {
+      "uuid": "850b993d9a26641a2701c842c1d5f677",
+      "puuid": "e0f9eff79bf255655a13906abfaa6f2e",
+      "title": "PCB_audiobackboard_2",
+      "filename": "PCB_audiobackboard_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c946f1098ca14a18a5ecfc2c3fdd9cec": 2,
+        "1586800a83194e228c6527ad76c86945": 10,
+        "b811781e2b834ff7927ba9960dacf589": 2,
+        "2739dcdf8a8e413a8b48191b26682f31": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "f83673d09e13450d934ca6be4be5af8f": 4,
+        "0f2364c02f094100b1b3205c9d829099": 2,
+        "fb11a1cdebf6433b8a3c664a100689e6": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 6,
+        "c4cd557b833444b39ce2426fb49e8b08": 1,
+        "5cafa9ae5a9e4b2ab529c9f08b47eb94": 1,
+        "43511be52cf64c16aa23034c71548181": 2
+      },
+      "BOM": [],
+      "updateTime": 1699418820,
+      "createTime": 1699334356,
+      "histories": [],
+      "created_at": "2023-11-06 22:19:16",
+      "updated_at": "2023-11-07 21:47:00"
+    }
+  ],
+  "sort": [],
+  "title": "audiobackboard",
+  "foldername": "audiobackboard",
+  "schfilename": "audiobackboard.json",
+  "schfilemtime": 1699337213991
+}

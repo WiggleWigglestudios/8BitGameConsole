@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tV4zdyWPE+bqav54Y5s/5TT5RWT50NavzumUXhm+j2Ldl1JsjA5vh/RjwEzuVxMJWVCjd1pHt3hN4YOf7jQ8sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breck\\Documents\\_CIRCUITS AND 6502\\programs\\generatingMusic\\GeneratingMusicFor6502\\GeneratingMusicFor6502\\GeneratingMusicFor6502.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breck\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,110 @@
+{
+  "uuid": "e09664c8d403c301636649fbabe2198d",
+  "path": "Offline/extraBoardv3",
+  "name": "extraBoardv3",
+  "content": "",
+  "created_at": "2023-10-21 13:45:15",
+  "updated_at": "2024-01-05 03:41:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "eecec6c1f25e93f9a9d4b993efa2a739",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "97e3dfd84929426786ec7929e48dfb0d": 10,
+        "7a8518c664a44c22a06017dd3aa984c8": 1,
+        "ec32f3ce430047218e4bc021ae28d057": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x16",
+          10,
+          "HDR-M-2.54_1X16",
+          "ADDRESS,ADDRESS1,ADDRESS2,ADDRESS3,ADDRESS4,DATA,DATA1,DATA2,DATA3,DATA4",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x16",
+            "puuid": "b811781e2b834ff7927ba9960dacf589",
+            "uuid": "97e3dfd84929426786ec7929e48dfb0d"
+          }
+        ],
+        [
+          "STANDOFF_F/FM3_5MM",
+          4,
+          "STANDOFF_HEX_FEMALE_550X500_M3X0.5_MTGP850H320",
+          "MP1,MP2,MP3,MP4",
+          {
+            "Contributor": "",
+            "spiceSymbolName": "STANDOFF_F/FM3_5MM",
+            "Manufacturer Part": "",
+            "puuid": "8c0b39d8d00947c6af0112c84fe2b750",
+            "uuid": "ec32f3ce430047218e4bc021ae28d057"
+          }
+        ],
+        [
+          "MM74HC32MX",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C904255",
+            "Manufacturer": "onsemi(安森美)",
+            "Manufacturer Part": "MM74HC32MX",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C904255&%26type=1&ref=editor",
+            "spiceSymbolName": "MM74HC32MX",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "7a8518c664a44c22a06017dd3aa984c8"
+          }
+        ]
+      ],
+      "updateTime": 1697919014,
+      "createTime": 1697917516,
+      "histories": [],
+      "created_at": "2023-10-21 13:45:16",
+      "updated_at": "2023-10-21 14:10:14"
+    },
+    {
+      "uuid": "3b1960c6a6153df67b8d36db7c719b8b",
+      "puuid": "e09664c8d403c301636649fbabe2198d",
+      "title": "PCB_extraBoardv3",
+      "filename": "PCB_extraBoardv3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b811781e2b834ff7927ba9960dacf589": 10,
+        "0f2364c02f094100b1b3205c9d829099": 1
+      },
+      "BOM": [],
+      "updateTime": 1704451289,
+      "createTime": 1697918380,
+      "histories": [],
+      "created_at": "2023-10-21 13:59:40",
+      "updated_at": "2024-01-05 03:41:29"
+    }
+  ],
+  "sort": [],
+  "title": "extraBoardv3",
+  "foldername": "extraBoardv3",
+  "schfilename": "extraBoardv3.json",
+  "schfilemtime": 1697919014926
+}
